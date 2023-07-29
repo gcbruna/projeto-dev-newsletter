@@ -11,7 +11,7 @@
 ## Preview
 
 ### Desktop
-![Desktop Preview](https://github.com/gcbruna/projeto-dev-newsletter/raw/main/assets/115025421/32f803e9-3f30-4df5-a5df-1ce1d6b6b749.png)
+![Desktop Preview](https://github.com/gcbruna/projeto-dev-newsletter/assets/115025421/f6d562d8-f0f7-4552-a0b6-3792eab163d2)
 
 ### Mobile
-![Mobile Preview](https://github.com/gcbruna/projeto-dev-newsletter/raw/main/assets/115025421/be7a1681-d75e-496f-b9d7-2265821007b1.png)
+![Mobile Preview](https://github.com/gcbruna/projeto-dev-newsletter/assets/115025421/9686a314-1af6-4483-83a2-f7361ac428e7)
