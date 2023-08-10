@@ -4,7 +4,7 @@
 * HTML
 * Tailwind CSS
 
-<p align="center">Um site que simula a tela de inscrição da newsletter, um serviço que tem o objetivo de fornecer informações e novidades sobre o universo tech.</p>
+> Um site que simula a tela de inscrição da newsletter, um serviço que tem o objetivo de fornecer informações e novidades sobre o universo tech.
 
 ## Acesse o site aqui! :point_right: [Projeto Dev Newsletter](https://projeto-dev-newsletter.vercel.app/)
 
